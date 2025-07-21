@@ -58,7 +58,7 @@ p {
 
 <h2>Detalles</h2>
 
-<p>Aun me falta mucho por mejorar (Aparte de no durar 2 dias con el mismo error) pero pude avanzar lo maximo que me permitia el tiempo. PD: Gracias profe</p>
+<p>Aun me falta mucho por mejorar (Aparte de no durar 2 dias con el mismo error.) pero pude avanzar lo maximo que me permitia el tiempo. PD: Gracias profe</p>
 
 </body>
 </html>
