@@ -1,3 +1,0 @@
-*.cs linguist-language=C#
-*.aspx linguist-language=HTML
-*.csproj linguist-language=XML
