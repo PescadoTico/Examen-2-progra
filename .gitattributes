@@ -1,3 +1,8 @@
+
+*.bak linguist-vendored
+packages/** linguist-vendored
+
 *.cs linguist-language=C#
+*.aspx.cs linguist-language=C#
+
 *.aspx linguist-language=HTML
-*.csproj linguist-language=XML
