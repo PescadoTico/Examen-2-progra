@@ -6,3 +6,5 @@ packages/** linguist-vendored
 *.aspx.cs linguist-language=C#
 
 *.aspx linguist-language=HTML
+
+Scripts/*.js linguist-vendored
